@@ -8,6 +8,7 @@ public class WebCollectorApplication {
 
 
     public static void main(String[] args) {
+        
         SpringApplication.run(WebCollectorApplication.class, args);
     }
 
